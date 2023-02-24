@@ -53,3 +53,5 @@ Inspired by:
 1. https://www.atticusprojectai.org/
 2. https://zhuanlan.zhihu.com/p/371351793
 3. https://zhuanlan.zhihu.com/p/371353549
+4. https://towardsdatascience.com/how-to-set-up-a-machine-learning-model-for-legal-contract-review-fe3b48b05a0e
+5. https://towardsdatascience.com/how-to-set-up-a-machine-learning-model-for-legal-contract-review-part-2-6ecbbe680ba
